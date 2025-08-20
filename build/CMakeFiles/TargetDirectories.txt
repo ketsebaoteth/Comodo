@@ -1,0 +1,11 @@
+C:/Users/Predator/Documents/contribute/comodo/build/CMakeFiles/comodo.dir
+C:/Users/Predator/Documents/contribute/comodo/build/CMakeFiles/INSTALL.dir
+C:/Users/Predator/Documents/contribute/comodo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Predator/Documents/contribute/comodo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/docs/CMakeFiles/INSTALL.dir

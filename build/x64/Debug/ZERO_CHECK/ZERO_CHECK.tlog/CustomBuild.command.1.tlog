@@ -1,0 +1,10 @@
+^C:\USERS\PREDATOR\DOCUMENTS\CONTRIBUTE\COMODO\BUILD\CMAKEFILES\FEFFF5EFE8AD4BAEE88F517C686450F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Predator/Documents/contribute/comodo -BC:/Users/Predator/Documents/contribute/comodo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Predator/Documents/contribute/comodo/build/comodo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

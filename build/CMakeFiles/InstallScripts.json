@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Predator/Documents/contribute/comodo/build/cmake_install.cmake",
+		"C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/cmake_install.cmake",
+		"C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/src/cmake_install.cmake",
+		"C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

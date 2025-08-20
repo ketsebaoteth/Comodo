@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Predator\Documents\contribute\comodo\build\CMakeFiles\2fbab453ff7ce42d64b7237ccb85e918\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DAB5AC29-1665-37F7-9E7E-EC140E27F10C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

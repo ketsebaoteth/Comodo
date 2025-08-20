@@ -1,0 +1,10 @@
+^C:\USERS\PREDATOR\DOCUMENTS\CONTRIBUTE\COMODO\INCLUDE\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Predator/Documents/contribute/comodo -BC:/Users/Predator/Documents/contribute/comodo/build --check-stamp-file C:/Users/Predator/Documents/contribute/comodo/build/include/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

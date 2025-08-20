@@ -1,0 +1,21 @@
+[submodule "external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "build/external/ffmpeg"]
+	path = build/external/ffmpeg
+	url = https://github.com/FFmpeg/FFmpeg
+[submodule "external/ffmpeg"]
+	path = external/ffmpeg
+	url = https://github.com/FFmpeg/FFmpeg
+[submodule "external/juce"]
+	path = external/juce
+	url = https://github.com/juce-framework/JUCE
+[submodule "external/stb"]
+	path = external/stb
+	url = https://github.com/nothings/stb
+[submodule "external/eigen"]
+	path = external/eigen
+	url = https://gitlab.com/libeigen/eigen.git

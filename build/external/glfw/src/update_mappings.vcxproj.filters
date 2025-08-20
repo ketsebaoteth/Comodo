@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Predator\Documents\contribute\comodo\build\CMakeFiles\2fbab453ff7ce42d64b7237ccb85e918\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Predator\Documents\contribute\comodo\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Predator\Documents\contribute\comodo\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Predator\Documents\contribute\comodo\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Predator\Documents\contribute\comodo\build\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DAB5AC29-1665-37F7-9E7E-EC140E27F10C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0564C746-9907-388D-80EE-3745ECD3CB1E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
