@@ -28,6 +28,9 @@
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\Fileview\FileDialoge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\folderpath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\kernel\ctx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

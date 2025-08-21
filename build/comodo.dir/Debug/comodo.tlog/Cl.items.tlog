@@ -7,6 +7,7 @@ C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\ui.cpp;C:\Users\Pred
 C:\Users\Predator\Documents\contribute\comodo\src\UI\theme.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\theme.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\utils\buttons.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\buttons.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\Fileview\FileDialoge.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\FileDialoge.obj
+C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\folderpath.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\folderpath.obj
 C:\Users\Predator\Documents\contribute\comodo\src\kernel\ctx.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\ctx.obj
 C:\Users\Predator\Documents\contribute\comodo\src\kernel\utils\init.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\init.obj
 C:\Users\Predator\Documents\contribute\comodo\src\main.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\main.obj

@@ -365,6 +365,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\theme.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\utils\buttons.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\Fileview\FileDialoge.cpp" />
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\windows\folderpath.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\kernel\ctx.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\kernel\utils\init.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\main.cpp" />
