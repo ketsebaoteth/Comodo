@@ -16,6 +16,15 @@
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\channel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\rack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\navbar\navbar_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\ui.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

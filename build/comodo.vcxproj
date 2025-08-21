@@ -361,6 +361,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\navbar\navbar.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\seq_props.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer.cpp" />
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\channel.cpp" />
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\rack.cpp" />
+    <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\navbar\navbar_main.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\ui.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\theme.cpp" />
     <ClCompile Include="C:\Users\Predator\Documents\contribute\comodo\src\UI\utils\buttons.cpp" />

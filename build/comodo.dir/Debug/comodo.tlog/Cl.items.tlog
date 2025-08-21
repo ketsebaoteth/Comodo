@@ -3,6 +3,9 @@ C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\media_preview\previe
 C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\navbar\navbar.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\navbar.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\seq_props.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\seq_props.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\sequencer.obj
+C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\channel.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\channel.obj
+C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\channels\rack.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\rack.obj
+C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\sequencer_properties\sequencer\navbar\navbar_main.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\navbar_main.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\panels\ui.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\ui.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\theme.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\theme.obj
 C:\Users\Predator\Documents\contribute\comodo\src\UI\utils\buttons.cpp;C:\Users\Predator\Documents\contribute\comodo\build\comodo.dir\Debug\buttons.obj
